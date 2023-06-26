@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="vue-tree-table">
     <slot
       name="headerTemplate"
       :columns="columns"
