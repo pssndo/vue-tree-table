@@ -1,4 +1,4 @@
-.row{
+.vue-tree-table .row{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -9,7 +9,7 @@
     margin-top: -1px;
 }
 
-.cell{
+.vue-tree-table .cell{
     flex-grow: 1;
     flex-basis: 0;
     box-sizing: border-box;
